@@ -1,4 +1,4 @@
-Name: Luca Lerouxvwf7
+Name: Luca Leroux
 
 Hobby: Magic the Gathering
 
