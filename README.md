@@ -1,4 +1,4 @@
-abc123 Name: Luca Leroux
+Name: Luca Leroux
 
 Hobby: Magic the Gathering
 
